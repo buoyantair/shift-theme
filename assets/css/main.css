@@ -11,6 +11,11 @@ Primary-VDark: #578B99
     color: #FFF;
 }
 
+.content{
+    padding-top:1em;
+    padding-bottom: 5em;
+}
+
 .sidebar{
     box-shadow: 100px 0px 105px 0px rgba(0,0,0,.025);
 }
@@ -31,6 +36,12 @@ Primary-VDark: #578B99
     border-top: 1px solid rgba(0,0,0,.125);
 }
 
-.content{
+.docs{
     border-left: 1px solid rgba(0,0,0,.125);
+}
+
+
+.footer{
+    background: #031926;
+    min-height: 5em;
 }
