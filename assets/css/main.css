@@ -1,0 +1,36 @@
+/* COLORS
+
+Primary : #76BED0
+Primary-Dark : #6BACBC
+Primary-VDark: #578B99
+
+*/
+
+#intro{
+    background: linear-gradient(30deg, #76BED0, #578B99);
+    color: #FFF;
+}
+
+.sidebar{
+    box-shadow: 100px 0px 105px 0px rgba(0,0,0,.025);
+}
+
+
+.list{
+    font-family: 'Josefin Sans', 'Oxygen', sans-serif;
+}
+
+
+.list .list-group-item{
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.list .list-group-item:first-child{
+    border-top: 1px solid rgba(0,0,0,.125);
+}
+
+.content{
+    border-left: 1px solid rgba(0,0,0,.125);
+}
